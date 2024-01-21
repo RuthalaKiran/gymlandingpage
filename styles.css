@@ -154,6 +154,7 @@ li:hover {
     align-items:start;
     justify-content: center;
     gap: 2rem;
+    z-index: 5;
 }
 .section1 .left .top{
    display: flex;
