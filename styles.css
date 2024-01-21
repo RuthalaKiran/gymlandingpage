@@ -155,6 +155,7 @@ li:hover {
     justify-content: center;
     gap: 2rem;
     z-index: 5;
+    -webkit-tap-highlight-color: transparent;
 }
 .section1 .left .top{
    display: flex;
